@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/obj/Debug/net7.0/scopedcss/projectbundle/HospitalManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets/HospitalManagement.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/WIN_20240625_07_36_05_Pro.jpg",
+      "PackagePath": "staticwebassets/banners/WIN_20240625_07_36_05_Pro.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/WIN_20240625_07_36_38_Pro.jpg",
+      "PackagePath": "staticwebassets/banners/WIN_20240625_07_36_38_Pro.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/WIN_20240816_16_43_41_Pro.jpg",
+      "PackagePath": "staticwebassets/banners/WIN_20240816_16_43_41_Pro.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/attachment.png",
+      "PackagePath": "staticwebassets/banners/attachment.png"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/attachment2.png",
+      "PackagePath": "staticwebassets/banners/attachment2.png"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/jacket.jpg",
+      "PackagePath": "staticwebassets/banners/jacket.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/pan1.jpg",
+      "PackagePath": "staticwebassets/banners/pan1.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/pant.jpg",
+      "PackagePath": "staticwebassets/banners/pant.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/shirt.jpg",
+      "PackagePath": "staticwebassets/banners/shirt.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/banners/sweater.jpg",
+      "PackagePath": "staticwebassets/banners/sweater.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/best.jpg",
+      "PackagePath": "staticwebassets/colorimages/best.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/hoodie.jpg",
+      "PackagePath": "staticwebassets/colorimages/hoodie.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/jacket.jpg",
+      "PackagePath": "staticwebassets/colorimages/jacket.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/pan1.jpg",
+      "PackagePath": "staticwebassets/colorimages/pan1.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/pant.jpg",
+      "PackagePath": "staticwebassets/colorimages/pant.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/shirt.jpg",
+      "PackagePath": "staticwebassets/colorimages/shirt.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/colorimages/sweater.jpg",
+      "PackagePath": "staticwebassets/colorimages/sweater.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/css/carousel.css",
+      "PackagePath": "staticwebassets/css/carousel.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/css/stock.css",
+      "PackagePath": "staticwebassets/css/stock.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/css/stockdetail.css",
+      "PackagePath": "staticwebassets/css/stockdetail.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/css/stockmenudetail.css",
+      "PackagePath": "staticwebassets/css/stockmenudetail.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/attachment.png",
+      "PackagePath": "staticwebassets/images/attachment.png"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/attachment2.png",
+      "PackagePath": "staticwebassets/images/attachment2.png"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/banners/pant.jpg",
+      "PackagePath": "staticwebassets/images/banners/pant.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/banners/shirt.jpg",
+      "PackagePath": "staticwebassets/images/banners/shirt.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/best.jpg",
+      "PackagePath": "staticwebassets/images/best.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/hoodie.jpg",
+      "PackagePath": "staticwebassets/images/hoodie.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/img.webp",
+      "PackagePath": "staticwebassets/images/img.webp"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/jacket.jpg",
+      "PackagePath": "staticwebassets/images/jacket.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/p.webp",
+      "PackagePath": "staticwebassets/images/p.webp"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/pant.jpg",
+      "PackagePath": "staticwebassets/images/pant.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/shirt.jpg",
+      "PackagePath": "staticwebassets/images/shirt.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/images/sweater.jpg",
+      "PackagePath": "staticwebassets/images/sweater.jpg"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/Banner.js",
+      "PackagePath": "staticwebassets/js/Banner.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/ColorImages.js",
+      "PackagePath": "staticwebassets/js/ColorImages.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/carousel.js",
+      "PackagePath": "staticwebassets/js/carousel.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/patientinfo - Copy.js",
+      "PackagePath": "staticwebassets/js/patientinfo - Copy.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/patientinfo.js",
+      "PackagePath": "staticwebassets/js/patientinfo.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/search.js",
+      "PackagePath": "staticwebassets/js/search.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/js/stock.js",
+      "PackagePath": "staticwebassets/js/stock.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/royan43/Documents/HospitalManagement/HospitalManagement/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.HospitalManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.HospitalManagement.props",
+      "PackagePath": "build\\HospitalManagement.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HospitalManagement.props",
+      "PackagePath": "buildMultiTargeting\\HospitalManagement.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HospitalManagement.props",
+      "PackagePath": "buildTransitive\\HospitalManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

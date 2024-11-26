@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HospitalManagement
+build_property.RootNamespace = HospitalManagement
+build_property.ProjectDir = /Users/royan43/Documents/HospitalManagement/HospitalManagement/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/royan43/Documents/HospitalManagement/HospitalManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Appointment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Appointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Banner/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Banner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/ColorImages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JJbWFnZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/ColorImages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JJbWFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Company/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcGFueS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Home/EmailSender.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FbWFpbFNlbmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Home/StockLatest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdG9ja0xhdGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/MenuHeader/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUhlYWRlci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/MenuHeader/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUhlYWRlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/MenuHeader/MenuHeaderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUhlYWRlci9NZW51SGVhZGVyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/MenuHeader/StockMenuDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUhlYWRlci9TdG9ja01lbnVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/MenuHeader/StockMenuDetailSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUhlYWRlci9TdG9ja01lbnVEZXRhaWxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/PatientInfo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF0aWVudEluZm8vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/PatientInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF0aWVudEluZm8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Stock/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Stock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Stock/ReadStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svUmVhZFN0b2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Stock/StockDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svU3RvY2tEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Stock/StockPantsItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svU3RvY2tQYW50c0l0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Stock/StockPopularItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svU3RvY2tQb3B1bGFySXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/UserRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlclJvbGVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/UserRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlclJvbGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/royan43/Documents/HospitalManagement/HospitalManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5ucycrw3rq

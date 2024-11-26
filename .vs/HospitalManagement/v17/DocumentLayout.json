@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\kunwar\\HospitalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\views\\patientinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\views\\patientinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\views\\patientinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\views\\patientinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|d:\\projects\\kunwar\\hospitalmanagement\\hospitalmanagement\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04B325-8CA3-4ADE-8285-650141EB3CAF}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAvwIYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:59:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagement\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "HospitalManagement\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:56:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagement\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "HospitalManagement\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:54:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAnwHcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:46:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HospitalManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAAKUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:38:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAIAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:45:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\PatientInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagement\\Views\\PatientInfo\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\PatientInfo\\Index.cshtml",
+              "RelativeToolTip": "HospitalManagement\\Views\\PatientInfo\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:42:49.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\PatientInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagement\\Views\\PatientInfo\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\Views\\PatientInfo\\Create.cshtml",
+              "RelativeToolTip": "HospitalManagement\\Views\\PatientInfo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:42:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagement\\appsettings.json",
+              "ToolTip": "D:\\Projects\\kunwar\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeToolTip": "HospitalManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T04:17:39.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

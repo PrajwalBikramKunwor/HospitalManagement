@@ -1,0 +1,96 @@
+﻿@model HospitalManagement.BusinessLayer.DTOs.Setup.AppointmentDTO
+
+<div class="modal-dialog  modal-md">
+    <div class="modal-content">
+        <div class="modal-header">
+            <label style="font-size:medium;"><b>Appointment Entry</b></label>
+            <span class="close" id="closeMember" data-dismiss="modal" aria-hidden="true">&times;</span>
+        </div>
+        <form id="CreateOutletform">
+            <div class="modal-body">
+                <div asp-validation-summary="ModelOnly" class="alert badge-danger"></div>
+                
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <input type="hidden" asp-for="AppointmentId" value="@Model.AppointmentId" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Patient</label>
+                        <select class="form-select" asp-for="PatientId" asp-items="@ViewBag.PatientList"></select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Title </label>
+                        <input type="text" class="form-control required" asp-for="Title" value="@Model.Title" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Description</label>
+                        <input type="text" class="form-control" asp-for="Description" value="@Model.Description" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label>StartTime</label>
+                        <input type="time" class="form-control" asp-for="StartTime" value="@Model.StartTime" />
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>EndTime</label>
+                        <input type="time" class="form-control" asp-for="EndTime" value="@Model.EndTime" />
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label>Is All Day</label>
+                        <select asp-for="IsAllDay" class="form-control">
+                            <option value="True">True</option>
+                            <option value="False">False</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>Status</label>
+                        <select asp-for="Status" class="form-control">
+                            <option value="Scheduled">Scheduled</option>
+                            <option value="Completed">Completed</option>
+                            <option value="Canceled">Canceled</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Appointment Date</label>
+                        <input type="date" class="form-control" asp-for="AppointmentDate" value="@Model.AppointmentDate" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Doctor</label>
+                        <select class="form-select" id="DoctorIdd" asp-for="DoctorId" asp-items="@ViewBag.DoctorList"></select>
+                    </div>
+                </div>
+
+               
+            </div>
+           
+                <div class="modal-footer">
+                    <button type="button" id="SubmitButton" value="Save" class="btn btn-primary" onclick="saveAppointment();">Save</button>
+                    <a data-dismiss="modal" class="btn  btn-default">Back</a>
+                </div>
+
+        </form>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/stock.js"></script>
+<script src="~/js/patientinfo.js"></script>
+
+<script>
+
+</script>
+
+

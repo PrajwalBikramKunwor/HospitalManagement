@@ -1,0 +1,59 @@
+﻿@* @model IEnumerable<HospitalManagement.BusinessLayer.DTOs.PatientInfoDTO> *@
+@model HospitalManagement.BusinessLayer.DTOs.PatientInfoDTO
+
+@{
+    ViewData["Title"] = "Patient List";
+}
+
+<h2>Patient List</h2>
+<button onclick="CreatePatient()">Add Detail</button>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Gender</th>
+                <th>Phone Number</th>
+                <th>Medical Records</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.PatientDTO != null && Model.PatientDTO.Any())
+            {
+                foreach (var patient in Model.PatientDTO)
+                {
+                    @if (@patient.PatientId == Model.PatientRetrieveId || User.IsInRole("Admin"))
+                    {
+                        <tr>
+                            <td>@patient.FirstName</td>
+                            <td>@patient.LastName</td>
+                            <td>@patient.Email</td>
+                            <td>@patient.Gender</td>
+                            <td>@patient.PhoneNumber</td>
+                            <td>@patient.MedicalRecords</td>
+                            <td>
+                                <a href="@Url.Action("Create", "PatientInfo", new { mnId = patient.PatientId })" class="btn btn-primary btn-sm">Edit</a>
+                                <a href="@Url.Action("Delete", "PatientInfo", new { mnId = patient.PatientId })" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this patient?');">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">No patient records found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<script>
+    function CreatePatient(){
+        window.location.href = "PatientInfo/Create";
+    }
+</script>
